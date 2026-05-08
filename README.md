@@ -1,4 +1,4 @@
-# Smart-Food-Scale: Integrated Digital
+Smart-Food-Scale: Integrated Digital
 Weighing and Wireless Transmission
 System
 ScalPro BLE is a high-precision weight measurement platform developed on the ESP32
